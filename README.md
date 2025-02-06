@@ -1,4 +1,4 @@
-# 👨‍💻 Welcome to My Cyber World
+# 👨‍💻 Welcome to My World
 
 ```bash
 $ whoami
