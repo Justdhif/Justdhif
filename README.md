@@ -41,6 +41,31 @@ $ cat skills.txt
 
 ---
 
+## 🏆 Achievements
+
+### **Badges**
+
+![GitHub Followers](https://img.shields.io/github/followers/NadhifArarya?label=Follow&style=social)
+![GitHub Stars](https://img.shields.io/github/stars/NadhifArarya?label=Stars&style=social)
+![GitHub Forks](https://img.shields.io/github/forks/NadhifArarya/your-repo-name?label=Forks&style=social)
+
+### **Certifications**
+
+![AWS Certified](https://img.shields.io/badge/AWS-Certified-orange?logo=amazon-aws)
+![Google Cloud Certified](https://img.shields.io/badge/Google%20Cloud-Certified-blue?logo=google-cloud)
+
+### **Hackathons & Competitions**
+
+![Hackathon Winner](https://img.shields.io/badge/Hackathon-Winner-brightgreen)
+![Codeforces Rating](https://img.shields.io/badge/Codeforces-Specialist-blue)
+
+### **Open Source Contributions**
+
+![Open Source Contributor](https://img.shields.io/badge/Open%20Source-Contributor-brightgreen)
+![First Pull Request](https://img.shields.io/badge/First%20Pull%20Request-Merged-brightgreen)
+
+---
+
 ## 🌍 Let's Connect
 
 📧 Email: [noob1234five@gmail.com](mailto:noob1234five@gmail.com)  
