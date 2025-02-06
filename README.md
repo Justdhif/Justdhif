@@ -6,6 +6,18 @@
 
 <h1 align="center">💻 Hai I'am Nadhif Ararya | Web Developer | Problem Maker </h3>
 
+<div align="center">
+    <img src="badge_1.png" height="70">
+    <img width="12" />
+    <img src="badge_2.png" height="70">
+    <img width="12" />
+    <img src="badge_3.png" height="70">
+    <img width="12" />
+    <img src="badge_4.png" height="70">
+    <img width="12" />
+    <img src="badge_5.png" height="70">
+</div>
+
 ---
 
 <h1 align="center">🛠️ Languages and Tools</h3>
@@ -54,20 +66,6 @@
   
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Justdhif&layout=compact&theme=dracula)
   
-</div>
-
----
-
-<div align="center">
-    <img src="badge_1.png" height="70">
-    <img width="12" />
-    <img src="badge_2.png" height="70">
-    <img width="12" />
-    <img src="badge_3.png" height="70">
-    <img width="12" />
-    <img src="badge_4.png" height="70">
-    <img width="12" />
-    <img src="badge_5.png" height="70">
 </div>
 
 ---
