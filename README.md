@@ -59,15 +59,15 @@
 ---
 
 <div align="center">
-    <img src="badge_1.png" heigh="40">
+    <img src="badge_1.png" height="40">
     <img width="12" />
-    <img src="badge_2.png" heigh="40">
+    <img src="badge_2.png" height="40">
     <img width="12" />
-    <img src="badge_3.png" heigh="40">
+    <img src="badge_3.png" height="40">
     <img width="12" />
-    <img src="badge_4.png" heigh="40">
+    <img src="badge_4.png" height="40">
     <img width="12" />
-    <img src="badge_5.png" heigh="40">
+    <img src="badge_5.png" height="40">
 </div>
 
 ---
