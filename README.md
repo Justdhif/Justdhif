@@ -6,6 +6,7 @@
 
 <h1 align="center">💻 Hai I'am Nadhif Ararya | Web Developer | Problem Maker </h3>
 
+<br>
 <div align="center">
     <img src="badge_1.png" height="70">
     <img width="12" />
@@ -21,6 +22,8 @@
 ---
 
 <h1 align="center">🛠️ Languages and Tools</h3>
+
+<br>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
