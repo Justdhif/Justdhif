@@ -74,7 +74,7 @@
 ---
 
 ## My Codewars Profile
-![Codewars](https://www.codewars.com/users/USERNAME/badges/large)
+![Codewars](https://www.codewars.com/users/Justdhif/badges/large)
 
 ---
 
