@@ -73,6 +73,11 @@
 
 ---
 
+## My Codewars Profile
+![Codewars](https://www.codewars.com/users/USERNAME/badges/large)
+
+---
+
 <h1 align="center">🌍 Let's Connect</h3>
 
 <div align="center">
