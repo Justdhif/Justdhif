@@ -1,23 +1,13 @@
 ![Banner](https://github.com/Justdhif/Justdhif/blob/main/banner.png)
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="30px">
 <h1 align="center">🚀 Welcome to My Universe</h1>
 
 ---
 
 <h1 align="center">💻 Hai I'am Nadhif Ararya | Web Developer | Problem Maker </h3>
-
-<br>
-<div align="center">
-    <img src="badge_1.png" height="70">
-    <img width="12" />
-    <img src="badge_2.png" height="70">
-    <img width="12" />
-    <img src="badge_3.png" height="70">
-    <img width="12" />
-    <img src="badge_4.png" height="70">
-    <img width="12" />
-    <img src="badge_5.png" height="70">
-</div>
 
 ---
 
