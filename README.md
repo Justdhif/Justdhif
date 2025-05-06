@@ -64,7 +64,6 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Justdhif&style=flat-square&color=blueviolet" alt="Profile views" />
   ![Codewars](https://www.codewars.com/users/Justdhif/badges/large)
 </div>
 
