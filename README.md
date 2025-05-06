@@ -2,14 +2,9 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="30px">
-<h1 align="center">🚀 Welcome to My Universe</h1>
-
----
+<h1 align="center"><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="30px"> Welcome to My Universe</h1>
 
 <h1 align="center">💻 Hai I'am Nadhif Ararya | Web Developer | Problem Maker </h3>
-
----
 
 <h1 align="center">🛠️ Languages and Tools</h3>
 
@@ -49,24 +44,32 @@
   <img width="12" />
 </div>
 
----
-
-<h1 align="center">📊 GitHub Stats</h3>
+## <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width="30px"> GitHub Stats
 
 <div align="center">
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Justdhif&show_icons=true&theme=dracula)
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Justdhif&layout=compact&theme=dracula)
-  
+  <img src="https://github-readme-stats.vercel.app/api?username=Justdhif&show_icons=true&theme=radical" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Justdhif&layout=compact&theme=radical" alt="Top Languages" height="170" />
 </div>
 
----
+<br>
 
-## My Codewars Profile
-![Codewars](https://www.codewars.com/users/Justdhif/badges/large)
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img width="98%" src="https://github-profile-trophy.vercel.app/?username=Justdhif&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+  </a>
+</div>
 
----
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Justdhif&theme=radical" alt="Profile Summary" width="100%" />
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Justdhif&style=flat-square&color=blueviolet" alt="Profile views" />
+  ![Codewars](https://www.codewars.com/users/Justdhif/badges/large)
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 <h1 align="center">🌍 Let's Connect</h3>
 
@@ -75,13 +78,11 @@
   <a href="https://www.linkedin.com/in/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&fontSize=90" width="100%" />
+</div>
+
 <!-- 📧 Email: [noob1234five@gmail.com](mailto:noob1234five@gmail.com) -->
-
----
-
-<img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="100%">
-
----
 
 ```bash
 $ echo "Code, Build, Innovate!"
