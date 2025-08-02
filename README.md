@@ -63,17 +63,13 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Justdhif&theme=radical" alt="Profile Summary" width="100%" />
 </div>
 
-<div align="center">
-  ![Codewars](https://www.codewars.com/users/Justdhif/badges/large)
-</div>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
 <h1 align="center">🌍 Let's Connect</h3>
 
 <div align="center">
-  <a href="https://instagram.com/dhif.tailwindcss" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/justdhif.dev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
 
