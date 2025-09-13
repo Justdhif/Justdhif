@@ -4,7 +4,9 @@
 
 <h1 align="center"><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="30px"> Welcome to My Universe</h1>
 
-<h1 align="center">💻 Hai I'am Nadhif Ararya | Web Developer | Problem Maker </h3>
+<h1 align="center">💻 Hai I'am Nadhif Ararya | <p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Frontend+Developer;Problem+Solving;Problem+Maker;Curious;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+</p> </h3>
 
 <h1 align="center">🛠️ Languages and Tools</h3>
 
