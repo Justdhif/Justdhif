@@ -2,16 +2,16 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h1 align="center"><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="30px"> Welcome to My Universe</h1>
+## <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="30px"> Welcome to My Universe
 
-<h1 align="center"> 💻 Hai I'am Nadhif Ararya </h1>
+## 💻 Hai I'am Nadhif Ararya
 
 <br>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Frontend+Developer;Problem+Solving;Problem+Maker;Team+Work;Always%20learning%20new%20things&center=true&width=380&height=45&size=30"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Frontend+Developer;Problem+Solving;Problem+Maker;Team+Work&center=false&width=380&height=45&size=30"></a>
 </p> 
 
-<h1 align="center"> 🛠️ Languages and Tools </h1>
+## 🛠️ Languages and Tools
 
 <br>
 <div align="center">
@@ -66,12 +66,13 @@
   <a href="https://www.linkedin.com/in/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&fontSize=90" width="100%" />
-</div>
 
 <!-- 📧 Email: [noob1234five@gmail.com](mailto:noob1234five@gmail.com) -->
 
 ```bash
 $ echo "Code, Build, Innovate!"
 ```
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&fontSize=90" width="100%" />
+</div>
