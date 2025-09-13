@@ -4,8 +4,9 @@
 
 ## <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="30px"> Welcome to My Universe
 
-## 💻 Hai I'am Nadhif Ararya <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Frontend+Developer;Problem+Solving;Problem+Maker;Team+Work&width=380&height=45&size=30"></a>
+## 💻 Hai I'am Nadhif Ararya
 
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Frontend+Developer;Problem+Solving;Problem+Maker;Team+Work&width=380&height=45&size=30"></a>
 
 ## 🛠️ Languages and Tools
 
